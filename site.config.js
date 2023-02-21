@@ -10,6 +10,12 @@ const CONFIG = {
     github: "gali-yuwan-kuanmian",
     instagram: "",
   },
+  projects: [
+    {
+      name: `gali-yuwan-kuanmian`,
+      href: "https://gali-yuwan-kuanmian.github.io/gali-yuwan-kuanmian",
+    },
+  ],
   // blog setting (required)
   blog: {
     title: "RainSay",
@@ -28,7 +34,7 @@ const CONFIG = {
 
   // notion configuration (required)
   notionConfig: {
-    pageId: process.env.NOTION_PAGE_ID,
+    pageId: process.env.356fa18cc4e844c29e824f56a91c27a4,
   },
 
   // plugin configuration (optional)
