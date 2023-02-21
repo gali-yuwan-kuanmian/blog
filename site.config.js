@@ -1,25 +1,19 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
+    name: "gali.yuwan.kuanmian",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    role: "",
+    bio: "",
+    email: "gali.yuanwan.kuanmian@gmail.com",
+    linkedin: "",
+    github: "gali-yuwan-kuanmian",
     instagram: "",
   },
-  projects: [
-    {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
-    },
-  ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
+    title: "RainSay",
+    description: "welcome to RainSay!",
     theme: "light", // ['light', 'dark', 'auto']
   },
 
@@ -53,7 +47,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "morethanmin/morethan-log",
+      repo: "gali-yuwan-kuanmian/gali-yuwan-kuanmian",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
