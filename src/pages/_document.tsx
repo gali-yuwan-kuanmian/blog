@@ -13,7 +13,7 @@ class MyDocument extends Document {
             href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"
           />
           <link
-            rel="self-icon"
+            rel="icon"
             sizes="192x192"
             href="/self.jpeg"
           ></link>
