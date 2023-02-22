@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "RainSay",
+    title: "RainSay hello",
     description: "welcome to RainSay!",
     theme: "light", // ['light', 'dark', 'auto']
   },
