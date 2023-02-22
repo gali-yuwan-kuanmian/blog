@@ -12,9 +12,8 @@ class MyDocument extends Document {
             as="font"
             href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css"
           />
-          <link rel="icon" href="/favicon.ico" />
           <link
-            rel="apple-touch-icon"
+            rel="self-icon"
             sizes="192x192"
             href="/self.jpeg"
           ></link>
