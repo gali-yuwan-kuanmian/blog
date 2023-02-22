@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://morethan-log.vercel.app
+Host: https://gali-yuwan-kuanmian-gali-yuwan-kuanmian.vercel.app
 
 # Sitemaps
-Sitemap: https://morethan-log.vercel.app/sitemap.xml
+Sitemap: https://gali-yuwan-kuanmian-gali-yuwan-kuanmian.vercel.app/sitemap.xml
