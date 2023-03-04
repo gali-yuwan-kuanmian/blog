@@ -26,6 +26,15 @@ class MyDocument extends Document {
           ></link>
           {/* theme setting */}
           <meta name="theme-color" content={"#f1f3f5"} />
+          
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-YQ5HSTB7YJ"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-YQ5HSTB7YJ');
+          </script>
 
           {/* google search console */}
           {CONFIG.googleSearchConsole.enable === true && (
