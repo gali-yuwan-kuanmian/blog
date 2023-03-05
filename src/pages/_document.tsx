@@ -30,10 +30,9 @@ class MyDocument extends Document {
           <script async src="https://www.googletagmanager.com/gtag/js?id=G-YQ5HSTB7YJ"></script>
           <script>
             window.dataLayer = window.dataLayer || [];
-            function gtag(){window.dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('config', 'G-YQ5HSTB7YJ');
+            window.dataLayer.push({'config': 'G-YQ5HSTB7YJ'});
+            window.dataLayer.push({'js':  new Date()})
+           
           </script>
 
           {/* google search console */}
