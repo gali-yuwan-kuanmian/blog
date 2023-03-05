@@ -30,8 +30,12 @@ class MyDocument extends Document {
           <script async src="https://www.googletagmanager.com/gtag/js?id=G-YQ5HSTB7YJ"></script>
           <script>
             window.dataLayer = window.dataLayer || [];
-            window.dataLayer.push({'config': 'G-YQ5HSTB7YJ'});
-            window.dataLayer.push({'js':  new Date()});
+            window.dataLayer.push({
+             'event': 'new_subscriber',
+             'formLocation': 'footer',
+              'config': 'G-YQ5HSTB7YJ',
+                'js':  new Date()
+             });
            
           </script>
 
