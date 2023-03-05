@@ -31,7 +31,7 @@ class MyDocument extends Document {
           <script>
             window.dataLayer = window.dataLayer || [];
             window.dataLayer.push({'config': 'G-YQ5HSTB7YJ'});
-            window.dataLayer.push({'js':  new Date()})
+            window.dataLayer.push({'js':  new Date()});
            
           </script>
 
